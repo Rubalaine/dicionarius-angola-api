@@ -1,0 +1,57 @@
+[
+	{
+    "id": 1,
+    "dialect": "Mekié wey?.",
+    "meanings": [
+      {"meaning":"Como estás amigo?."},
+      {"meaning":"Saudação utilizada principalmente por adolescentes e jovens."}
+    ],
+    "examples": "Mekié wy?."
+  },
+  {
+    "id": 2,
+    "dialect": "Está numa!,",
+    "meanings": [
+      {"meaning":"Está tudo bem."},
+      {"meaning":"Usada normalmente após um cumprimento ou no final de uma conversa."},
+      {"meaning":"Quando também queremos usar elogiar uma coisa."}
+    ],
+    "examples": [
+      {"example":"Mekié wey? R: Está numa wy."},
+      {"example":"La Casa de Papel é uma série numa."}
+    ]
+  },
+  {
+    "id": 3,
+    "dialect": "É como? Tá calmo?",
+    "meanings": "Oi!? Estás bem?.",
+    "examples": [
+      {"example":"É como wy? Está tudo calmo?"},
+      {"example":"Aqui estamos calmo."}
+    ]
+  },
+  {
+    "id": 4,
+    "dialect": "Tô Pausado!.",
+    "meanings": [{"meaning":"Estou discontraído."}, {"meaning":"Estou muito bem."}],
+    "examples": [{"example":"Estou pausado no meu biva."}, {"example":"Estou pausado."}]
+  },
+  {
+    "id": 5,
+    "dialect": "Qual é a ideia?.",
+    "meanings": [{"meaning":"Novidades."}, {"meaning":"O que pretendes fazer?."}],
+    "examples": [{"example":"Qual é a ideia wy?."},{"example":"Estou realizando uma ideia."}]
+  },
+  {
+    "id": 6,
+    "dialect": "Tá bala!",
+    "meanings": [
+      {"meaning":"Está bem."},
+      {"meaning":"Também pode ser usada quando queremos elogiar alguma mulher ou objeto."}
+    ],
+    "examples": [
+      {"example":"Tá bala wy."},
+      {"example":"Essa m´boa é bala!."},
+      {"example":"Esse carro é bué bala."}]
+  }
+]

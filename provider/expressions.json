@@ -1,0 +1,193 @@
+[
+	{
+      "id": 1,
+    	"dialect": "Me levaram na má vida.",
+    	"meanings": [
+        {"meaning":"Estilo de vida fútil, vida de bebedeira."},
+        {"meaning":"Má influências."}
+      ],
+    	"examples": [
+        {"example": "Meus wys me levaram na má vida."},
+        {"example": "Vou sair da má vida."}
+      ]
+  },
+  {
+      "id": 2,
+      "dialect": "Preço da igreja.",
+      "meanings": [
+        {"meaning":"Muito barato."},
+        {"meaning":"Utilizado na venda de um artigo qualquer."}
+      ],
+      "examples": [
+        {"example": "Estou vendendo este telefone no preço da igreja."}
+      ]
+  },
+  {
+      "id": 3,
+      "dialect": "Mayar é crime.",
+      "meanings": [
+        {"meaning":"Não aproveitar é um disperdício."},
+        {"meaning":"Usado geralmente para influenciar alguém medroso a realizar alguma coisa, geralmente de caractér ilegal ou disrespeitoso."}
+      ],
+      "examples": [
+        {"example":"Wy mayar é crime"},
+        {"example":"Não vou mayar!."}
+      ]
+  },
+  {   "id": 4,
+      "dialect": "Não está nada muito catôlico.",
+      "meanings": [
+        {"meaning":"Está normal."},
+        {"meaning":"Falta melhorar algo existente."}
+      ],
+      "examples": [
+        {"example":"Essa Playstation não está nada muito catôlico."},
+        {"example":"Essa cena está nada catôlico."}
+      ]
+  },
+  {
+      "id": 5,
+      "dialect": "Tirar um para.",
+      "meanings": [
+        {"meaning":"Lutar mano-a-mano."},
+        {"meaning":"Lutar sozinho."}
+      ],
+      "examples": [
+        {"example":"Num para, eu te bato."},
+        {"example":"Tiram ainda um para."}
+      ]
+  },
+  {
+      "id": 6,
+      "dialect": "Tou a precisar de uma moça.",
+      "meanings": [
+        {"meaning":"Precisando de dinheiro."}
+      ],
+      "examples": [
+        {"example":"Preciso de uma moça wy."}
+      ]
+  },
+  {
+      "id": 7,
+      "dialect": "Arrastar baby.",
+      "meanings": [
+        {"meaning":"Levar mulher(es) na cama facilmente."}
+      ],
+      "examples": [
+        {"example":"Na festa de ontem arrastei uma baby."},
+        {"example":"Hoje vou arrastar uma baby."}
+      ]
+  },
+  {
+      "id": 8,
+      "dialect": "Tipo nada.",
+      "meanings": [
+        {"meaning":"Sem dificuldade alguma."},
+        {"meaning":"Realizar alguma tarefa ou ação sem dificuldades."}
+      ],
+      "examples": [
+        {"meaning":"Tirei 10 na prova de matemática tipo nada."},
+        {"meaning":"Passei na rua daquela ´mboa tipo nada."}
+      ]
+  },
+  {
+      "id": 9,
+      "dialect": "Ela é boa.",
+      "meanings": [
+        {"meaning":"Mulher bonita."},
+        {"meaning":"Usada quando queremos expressar nossa paixão sexual por uma mulher."}
+      ],
+      "examples": [
+        {"example":"A professora de geografia é boa."},
+        {"example":"Aquela m´boa é muito boa."}
+      ]
+  },
+  {
+      "id": 10,
+      "dialect": "Esse wy é gato.",
+      "meanings": [
+        {"meaning":"Um amigo que não ajuda."},
+        {"meaning":"Alguém que não honra com os seus comprimissos."}
+      ],
+      "examples": [
+        {"example":"Afinal de contas aquele wy é gato."}
+      ]
+  },
+  {
+      "id": 11,
+      "dialect": "Lhe avançar.",
+      "meanings": [
+        {"meaning":"Fazer sexo."}
+      ],
+      "examples": [
+        {"example":"Aquela m´boa lhe avancei."},
+        {"example":"Essa dama já lhe avançaram muito."}
+      ]
+  },
+  {
+      "id": 12,
+      "dialect": "Toques do fundo do baú.",
+      "meanings": [
+        {"meaning":"Dançar qualquer dança ou estilo."},
+        {"meaning":"Usada para incentivar alguém a dançar, mesmo ela não sabendo."}
+      ],
+      "examples": [
+        {"example":"Wy dá só aqueles toques do fundo do baú mesmo."}
+      ]
+  },
+  {
+    "id": 13,
+      "dialect": "Vamos bazar.",
+      "meanings": [
+        {"meaning":"Ir embora de algum lugar."},
+        {"meaning":"Ir pra algum lugar."}
+      ],
+      "examples": [
+        {"meaning":"Wy nós vamos bazar naquela festa."},
+        {"meaning":"Aquela festa estava gato, por isso bazei embora."}
+      ]
+  },
+  {
+      "id": 14,
+      "dialect": "Fazer os baixos.",
+      "meanings": [
+        {"meaning":"Ajudar alguém a pegar uma namorada."}
+      ],
+      "examples": [
+        {"example":"Wy faz os baixos naquela m'boa."}
+      ]
+  },
+  {
+      "id": 15,
+      "dialect": "Diogar.",
+      "meanings": [
+        {"meaning":"Lançar depois de muita bebedeira."}
+      ],
+      "examples": [
+        {"example":"Ele diogou muito ontem na festa."},
+        {"example":"Quando eu bebo, diogo muito."}
+      ]
+  },
+  {
+      "id": 16,
+      "dialect": "Se borraste.",
+      "meanings": [
+        {"meaning":"Passaste vergonha."},
+        {"meaning":"Quando alguém faz uma coisa vergonhosa."}
+      ],
+      "examples": [
+        {"example":"Ontem se borraste com aquela dama."},
+        {"example":"Você só me borra."}
+      ]
+  },
+  {
+      "id": 17,
+      "dialect": "Mãe do outro, também é tua mãe.",
+      "meanings": [
+        {"meaning":"Ter mais respeito com mulheres grávidas ou que já têm filhos."}
+      ],
+      "examples": [
+        {"example":"Dê lugar na senhora! Mãe do outro, também é sua mãe."}
+      ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "dialect": "Ruka.",
+    "meanings": "Carro.",
+    "examples": "Já vou ter meu ruka."
+  },
+  {
+    "id": 2,
+    "dialect": "Baica (Baika).",
+    "meanings": "Telefone.",
+    "examples": [
+      {"example":"Este baica é meu."},
+      {"example":"Vou comprar um baika."}
+    ]
+  },
+  {
+    "id": 3,
+    "dialect": "Buba.",
+    "meanings": "Telefone.",
+    "examples": [
+      {"example":"O meu buba está sem sinal."},
+      {"example":"O seu buba estava desligado porquê?."}
+    ]
+  },
+  {
+    "id": 4,
+    "dialect": "Teipe",
+    "meanings": "Tv",
+    "examples": "Ligue a teipe"
+  },
+  {
+    "id": 5,
+    "dialect": "Piso",
+    "meanings": "Calçado",
+    "examples": "Comprei um piso novo"
+  }
+]

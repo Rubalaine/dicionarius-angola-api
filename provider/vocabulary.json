@@ -1,0 +1,333 @@
+[
+	{
+      "id": 1,
+    	"dialect": "Grego.",
+    	"meanings": [
+        {"meaning":"Gatuno"},
+        {"meaning":"Ladrão"}
+      ],
+    	"examples": [
+        {"meaning":"Esse wy é grego."},
+        {"meaning":"Esses wys são gregos, não brinca."}
+      ]
+  	},
+  	{
+      "id": 2,
+    	"dialect": "Baiano.",
+    	"meanings": [
+        {"meaning":"Gatuno, ladrão."},
+        {"meaning":"refere-se as pessoas com atitudes maliciosas."}
+      ],
+    	"examples": [
+        {"example":"Esse aí é baiano."},
+        {"example":"Não brinca! Aquele é baiano."}
+      ]
+  	},
+  	{
+      "id": 3,
+    	"dialect": "Kumbú.",
+    	"meanings": "Dinheiro.",
+    	"examples": [
+        {"meaning":"Não tenho kumbú."},
+        {"meaning":"Meu velho tem muito kumbú."}
+      ]
+  	},
+  	{
+      "id": 4,
+    	"dialect": "Biva.",
+    	"meanings": "Casa.",
+    	"examples": [
+        {"example":"Estou indo no meu biva."},
+        {"example":"Saíndo do meu biva."}
+      ]
+  	},
+  	{
+      "id": 5,
+    	"dialect": "M´Boa.",
+    	"meanings": [
+        {"meaning":"Mulher."},
+        {"meaning":"Namorada."},
+        {"meaning":"termo usada para refere-se as mulheres em que à uma certa intimidade."}
+      ],
+    	"examples": [
+        {"meaning":"Este é a minha M´boa."},
+        {"meaning":"Já não estou com aquela m´boa."}
+      ]
+  	},
+  	{
+      "id": 6,
+    	"dialect": "Bukar.",
+    	"meanings": [
+        {"meaning":"Estudar."},
+        {"meaning":"referente à escola, estudos em geral."}
+      ],
+    	"examples": [
+        {"example":"Estou bukar matemática."},
+        {"example":"Já não quero mais bukar, mas sim trabalhar."}
+      ]
+  	},
+  	{
+      "id": 7,
+    	"dialect": "Mamoite.",
+    	"meanings": [
+        {"meaning":"Mãe."},
+        {"meaning":"também pode ser usada com termo de respeito pra mais velhas."}
+      ],
+    	"examples": [
+        {"example":"Minha mamoite saiu."},
+        {"example":"Essa mamoite é muito fixe."}
+      ]
+  	},
+  	{
+      "id": 8,
+    	"dialect": "Papoite.",
+    	"meanings": [
+        {"meaning":"Pai."},
+        {"meaning":"Também pode ser usada com termo de respeito pra mais velhos."}
+      ],
+    	"examples": [
+        {"example":"Papoite dele é muito autoritário."},
+        {"example":"Meu papoite já é falecido."}
+      ]
+  	},
+  	{
+      "id": 9,
+    	"dialect": "N´guelé.",
+    	"meanings": "Igreja.",
+    	"examples": "Estou indo na N´guelé."
+  	},
+  	{
+      "id": 10,
+    	"dialect": "N´degue.",
+    	"meanings": [
+        {"meaning":"Criança."},
+        {"meaning":"Usado também para refere-se aos irmãos menores."}
+      ],
+    	"examples": [{"example":"Este é o meu N´degue."},{"example":"Esse N´degue é rebelde."}]
+  	},
+  	{
+      "id": 11,
+    	"dialect": "N´gampa.",
+    	"meanings": [
+        {"meaning":"Feiticeiro."},
+        {"meaning":"Bruxo"},
+        {"meaning":"Alguém que nos quer mal"}
+      ],
+    	"examples": [
+        {"example":"Esse papoite é N´gampa"},
+        {"example":"Você é meu N´gampa."}
+      ]
+  	},
+  	{
+      "id": 12,
+    	"dialect": "Ruka.",
+    	"meanings": "Carro.",
+    	"examples": "Já vou ter meu ruka."
+  	},
+  	{
+      "id": 13,
+    	"dialect": "Wy.",
+    	"meanings": [
+        {"meaning":"Amigo."},
+        {"meaning":"usado também pra desconhecidos ou pessoas de quem nos simpatizamos."}
+      ],
+    	"examples": [
+        {"example":"Wy estás no teu biva?."},
+        {"example":"Wy, podes me dar uma indicação?."}
+      ]
+  	},
+  	{
+      "id": 14,
+    	"dialect": "Dreyd (Dreid).",
+    	"meanings": [
+        {"meaning":"Amigo."},
+        {"meaning":"Usado também pra desconhecidos ou pessoas de quem nos simpatizamos."},
+        {"meaning":"Também pode significar ladrão."}
+      ],
+    	"examples": [
+        {"example":"Como estás dreid?."},
+        {"example":"Aquele dreid nos enganou."}
+      ]
+  	},
+  	{
+      "id": 15,
+    	"dialect": "M´bila.",
+    	"meanings": [{"meaning":"Caminsa."}, {"meaning":"T-shirt."}],
+    	"examples": [
+        {"example":"Esse m´bila é bonito."},
+        {"meaning":"Onde compraste este m´bila?."}
+      ]
+  	},
+    {
+      "id": 16,
+      "dialect": "Kazumbi.",
+      "meanings": "Feiticeiro.",
+      "examples": "Aqui há muitos kazumbis."
+    },
+    {
+      "id": 17,
+      "dialect": "Buke",
+      "meanings": [{"meaning":"Estudo."}, {"meaning":"Livros."}, {"meaning":"Escola."}],
+      "examples": [{"meaning":"Tenho vários bukes em casa."},{"example":"Bukei na UAN."}]
+    },
+    {
+      "id": 18,
+      "dialect": "Kota.",
+      "meanings": [
+        {"meaning":"Irmão mais velho."},
+        {"meaning":"Usado também para se dirigir à alguém com respeito."}],
+      "examples": [
+        {"example":"Esse é o meu kota"},
+        {"example":"Kota? Me indica só na AngolaTelecom."}]
+    },
+    {
+      "id": 19,
+      "dialect": "Panco(a).",
+      "meanings": [
+        {"meaning":"Distraído(a)."},
+        {"meaning":"Burro(a)"},
+        {"meaning":"Quando alguém está apaixonado(a)."}
+      ],
+      "examples": [
+        {"example":"Você é grande panco dessa m´boa."},
+        {"example":"Olha bem! Panco."},
+        {"example":"Ele é meu panco."}
+      ]
+    },
+    {
+      "id": 20,
+      "dialect": "Jabá.",
+      "meanings": "Dinheiro.",
+      "examples": [{"example":"Quero meu jabá."},{"example":"Estou sem jabá."}]
+    },
+    {
+      "id": 21,
+      "dialect": "Dibala.",
+      "meanings": "Alguém careca.",
+      "examples": [
+        {"example":"Vin Diesel tem Dibala."},
+        {"example":"No ano passado fiz uma dibala."}
+      ]
+    },
+    {
+      "id": 22,
+      "dialect": "Pitéu.",
+      "meanings": "Comida.",
+      "examples": [
+        {"example":"Estou a pitar wy."},
+        {"example":"Aquele pitéu está bom."}
+      ]
+    },
+    {
+      "id": 23,
+      "dialect": "Cubico.",
+      "meanings": "Casa.",
+      "examples": [
+        {"example":"Passei o fim-de-semana no cubico."},
+        {"example":"Não tenho estado no cubico."}
+      ]
+    },
+    {
+      "id": 24,
+      "dialect": "Cassule.",
+      "meanings": [
+        {"meaning":"Irmão menor."},
+        {"meaning":"Filho."},
+        {"meaning":"Usada para chamar as crianças ou jovens com carinho."}
+      ],
+      "examples": [{"example":"Cassule, vem cá!."},{"example":"Este é o meu cassule."}]
+    },
+    {
+      "id": 25,
+      "dialect": "Kamba.",
+      "meanings": "Amigo.",
+      "examples": [
+        {"example":"Meu kamba, como estás?."},
+        {"example":"Como estão kambas?."}
+      ]
+    },
+    {
+      "id": 26,
+      "dialect": "Baby.",
+      "meanings": [{"meaning":"Namorada(o)."}, {"meaning":"Mulher bonita."}],
+      "examples": [{"example":"Essa é a minha baby."},{"example":"Essa baby é bonita."}]
+    },
+    {
+      "id": 27,
+      "dialect": "M´bangi.",
+      "meanings": "Casa.",
+      "examples": "Minha velha não está no m'bangi."
+    },
+    {
+      "id": 28,
+      "dialect": "Ciente.",
+      "meanings": [{"meaning":"Gatuno."}, {"meaning":"Ladrão."}],
+      "examples": "Esse teu kamba é ciente, não é?."
+    },
+    {
+      "id": 29,
+      "dialect": "Fatigar.",
+      "meanings": [
+        {"meaning":"Machucar."},
+        {"meaning":"Quando queremos que alguém não falhe connosco."}
+      ],
+      "examples": [{"example":"Vou te fatigar."},{"example":"Não me fatiga wy."}]
+    },
+    {
+      "id": 30,
+      "dialect": "Bad.",
+      "meanings": [{"meaning":"Gatuno."}, {"meaning":"Ladrão."}],
+      "examples": [
+        {"example":"Esses aí são bad."},
+        {"example":"Em Luanda há muitos bad."}
+      ]
+    },
+    {
+      "id": 31,
+      "dialect": "Sambalar.",
+      "meanings": "Ir embora.",
+      "examples": [
+        {"example":"Estou sambalando."},
+        {"example":"Acho que vou sambalar."}
+      ]
+    },
+    {
+      "id": 32,
+      "dialect": "Discair",
+      "meanings": [{"meaning":"Ir"}, {"meaning":"Vir"}],
+      "examples": [
+        {"example":"Vou discair no teu cubico."},
+        {"example":"Estou discaindo na casa de um kamba."}
+      ]
+    },
+    {
+      "id": 33,
+      "dialect": "Petisco.",
+      "meanings": [
+        {"meaning":"Comida rápida."},
+        {"meaning":"comida pra acompanhar com bebidas."}
+      ],
+      "examples": [
+        {"example":"Estava a pesticar numa barraca com alguns kambas."},
+        {"example":"Só tem bebidas. E o petisco?."}
+      ]
+    },
+    {
+      "id": 34,
+      "dialect": "Farra.",
+      "meanings": [{"meaning":"Festa."}, {"meaning":"Maratona."}],
+      "examples": [
+        {"example":"Ele passou o dia na farra."},
+        {"example":"Estás indo em que farra?."}
+      ]
+    },
+    {
+      "id": 35,
+      "dialect": "Mayar.",
+      "meanings": "Disperdiçar oportunidades.",
+      "examples": [
+        {"example":"Mayaste muito. Por isso perdeste."},
+        {"example":"Você maya muito."}
+      ]
+    }
+]
