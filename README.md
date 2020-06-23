@@ -9,8 +9,7 @@
 ## Como consumir a API 🧐
 
 - Faça uma requisição GET na API na url `https://dicionarius-angola-api.herokuapp.com/all`
-retornará um json com todos os verbetes, significados e exemplos: <br>;
-
+retornará um json com todos os verbetes, significados e exemplos: <br>
 - Exemplo de requisição com parâmetro: <br>
 * `https://dicionarius-angola-api.herokuapp.com/{endpoint}` - retornará um json com o respetivo endpoint.
 * `https://dicionarius-angola-api.herokuapp.com/{endpoint}/{id}` - retornará um json com o respetivo endpoint com a sua id.
